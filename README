@@ -1,3 +1,5 @@
+THIS FORK IS AIMT TO WORK WITH PI2 
+
 This is the buildsystem for the OpenWrt Linux distribution.
 
 Please use "make menuconfig" to configure your appreciated
